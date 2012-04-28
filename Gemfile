@@ -35,4 +35,8 @@ gem 'jquery-rails'
 # gem 'capistrano'
 
 # To use debugger
+
 # gem 'ruby-debug19', :require => 'ruby-debug'
+
+gem 'paperclip', '~>2.6.0'
+gem 'aws-sdk', '~>1.3.4'
